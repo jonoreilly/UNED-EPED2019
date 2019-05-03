@@ -1,0 +1,4 @@
+1.- Usar Linked List de caracteres para guardar los números porque si es más que long.max() se peta
+2.- Convertir las multiplicaciones a lista de sumas
+3.- Sumar caracter a caracter
+4.- Borrar caracteres no numericos al empezar
